@@ -1,0 +1,5698 @@
+ [
+  {
+  "documentID": "000028",
+  "documentName": "生息资产情况",
+  "documentDesc": "描述",
+  "reports": [
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2005",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 90,
+                         "isGradient": true,
+                         "color1": "acaeb1",
+                         "color2": "d6d8d9"
+                         },
+                         "dataValue": [
+                                       114.13,
+                                       118.87,
+                                       114.34,
+                                       110.07,
+                                       115.26,
+                                       113.81,
+                                       117.25,
+                                       113.98,
+                                       118.95,
+                                       114.16,
+                                       115.7,
+                                       114.08
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       0,
+                                       4.15,
+                                       -3.81,
+                                       -3.74,
+                                       4.72,
+                                       -1.26,
+                                       3.03,
+                                       -2.79,
+                                       4.36,
+                                       -4.02,
+                                       1.35,
+                                       -1.4
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2006",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       118.59,
+                                       111.08,
+                                       112.23,
+                                       118.72,
+                                       119.53,
+                                       112.3,
+                                       118.47,
+                                       119.28,
+                                       118.53,
+                                       113.18,
+                                       119.87,
+                                       113.5
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       3.95,
+                                       -6.33,
+                                       1.03,
+                                       5.79,
+                                       0.69,
+                                       -6.05,
+                                       5.49,
+                                       0.69,
+                                       -0.63,
+                                       -4.51,
+                                       5.91,
+                                       -5.31
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2007",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 90,
+                         "isGradient": true,
+                         "color1": "555e6f",
+                         "color2": "6b738a"
+                         },
+                         "dataValue": [
+                                       116.99,
+                                       118.46,
+                                       110.3,
+                                       113.23,
+                                       113.17,
+                                       113.6,
+                                       113.4,
+                                       111.88,
+                                       112.63,
+                                       114.41,
+                                       110.87,
+                                       118.12
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "ffffff",
+                         "color2": "ffffff"
+                         },
+                         "dataValue": [
+                                       3.07,
+                                       1.26,
+                                       -6.89,
+                                       2.66,
+                                       -0.05,
+                                       0.38,
+                                       -0.17,
+                                       -1.34,
+                                       0.67,
+                                       1.58,
+                                       -3.1,
+                                       6.54
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2008",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       117.14,
+                                       113.2,
+                                       113.92,
+                                       116.97,
+                                       119.39,
+                                       119.75,
+                                       113.45,
+                                       110.86,
+                                       116.38,
+                                       111.2,
+                                       117.06,
+                                       114.18
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.83,
+                                       -3.37,
+                                       0.64,
+                                       2.68,
+                                       2.06,
+                                       0.3,
+                                       -5.26,
+                                       -2.28,
+                                       4.98,
+                                       -4.46,
+                                       5.27,
+                                       -2.46
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2009",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       114,
+                                       110.41,
+                                       118.82,
+                                       110.18,
+                                       113.88,
+                                       117.85,
+                                       114.07,
+                                       115.44,
+                                       118.39,
+                                       112.42,
+                                       111.39,
+                                       114.76
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.16,
+                                       -3.15,
+                                       7.62,
+                                       -7.27,
+                                       3.36,
+                                       3.49,
+                                       -3.2,
+                                       1.19,
+                                       2.56,
+                                       -5.04,
+                                       -0.92,
+                                       3.03
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2010",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       98.43,
+                                       101.19,
+                                       119.09,
+                                       104.39,
+                                       107.12,
+                                       108.72,
+                                       112.22,
+                                       113.98,
+                                       106.62,
+                                       112.36,
+                                       119.45,
+                                       115.23
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -14.23,
+                                       2.8,
+                                       17.69,
+                                       -12.35,
+                                       2.62,
+                                       1.49,
+                                       3.22,
+                                       1.57,
+                                       -6.46,
+                                       5.38,
+                                       6.31,
+                                       -3.53
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2011",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       115.2,
+                                       111.67,
+                                       124.23,
+                                       127.44,
+                                       117.38,
+                                       120.32,
+                                       122.93,
+                                       117.11,
+                                       116.29,
+                                       117.82,
+                                       119.94,
+                                       116.43
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.02,
+                                       -3.07,
+                                       11.25,
+                                       2.58,
+                                       -7.9,
+                                       2.51,
+                                       2.17,
+                                       -4.73,
+                                       -0.7,
+                                       1.32,
+                                       1.79,
+                                       -2.92
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000001",
+              "reportName": "生息资产2012",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       105.2,
+                                       114.43,
+                                       108.66,
+                                       117.89,
+                                       120.11,
+                                       127.34,
+                                       129.57,
+                                       125.8,
+                                       120.02,
+                                       118.25,
+                                       115.48,
+                                       117.71
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F05A28",
+                         "color2": "4482BB"
+                         },
+                         "dataValue": [
+                                       -5.23,
+                                       10.1,
+                                       -4.51,
+                                       8.73,
+                                       6.04,
+                                       -1.61,
+                                       9.01,
+                                       -7.48,
+                                       -2.26,
+                                       -2.43,
+                                       -2.06,
+                                       2.63
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2005",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       17,
+                                       23,
+                                       19,
+                                       19,
+                                       16,
+                                       15,
+                                       25,
+                                       26,
+                                       26,
+                                       26,
+                                       21,
+                                       22
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       48,
+                                       43,
+                                       48,
+                                       41,
+                                       48,
+                                       49,
+                                       40,
+                                       41,
+                                       45,
+                                       40,
+                                       45,
+                                       45
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       53,
+                                       48,
+                                       50,
+                                       51,
+                                       50,
+                                       52,
+                                       47,
+                                       48,
+                                       48,
+                                       50,
+                                       47
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2006",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       17,
+                                       19,
+                                       14,
+                                       30,
+                                       24,
+                                       10,
+                                       20,
+                                       24,
+                                       21,
+                                       22,
+                                       19,
+                                       18
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       47,
+                                       40,
+                                       48,
+                                       41,
+                                       43,
+                                       49,
+                                       43,
+                                       44,
+                                       42,
+                                       44,
+                                       50,
+                                       42
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       55,
+                                       51,
+                                       50,
+                                       48,
+                                       53,
+                                       53,
+                                       55,
+                                       52,
+                                       55,
+                                       47,
+                                       51,
+                                       54
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2007",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       26,
+                                       24,
+                                       16,
+                                       16,
+                                       15,
+                                       20,
+                                       15,
+                                       21,
+                                       14,
+                                       16,
+                                       15,
+                                       31
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       41,
+                                       44,
+                                       47,
+                                       50,
+                                       45,
+                                       45,
+                                       46,
+                                       42,
+                                       44,
+                                       46,
+                                       46,
+                                       41
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       51,
+                                       47,
+                                       47,
+                                       54,
+                                       49,
+                                       52,
+                                       48,
+                                       54,
+                                       52,
+                                       50,
+                                       47
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2008",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       20,
+                                       21,
+                                       14,
+                                       20,
+                                       25,
+                                       34,
+                                       19,
+                                       16,
+                                       28,
+                                       17,
+                                       22,
+                                       16
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       46,
+                                       41,
+                                       49,
+                                       46,
+                                       49,
+                                       40,
+                                       40,
+                                       41,
+                                       41,
+                                       45,
+                                       42,
+                                       48
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       51,
+                                       51,
+                                       51,
+                                       45,
+                                       46,
+                                       54,
+                                       54,
+                                       47,
+                                       49,
+                                       53,
+                                       50
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2009",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       22,
+                                       21,
+                                       25,
+                                       11,
+                                       21,
+                                       23,
+                                       16,
+                                       26,
+                                       21,
+                                       11,
+                                       22,
+                                       18
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       40,
+                                       41,
+                                       48,
+                                       46,
+                                       43,
+                                       47,
+                                       47,
+                                       44,
+                                       43,
+                                       49,
+                                       42,
+                                       47
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       51,
+                                       48,
+                                       46,
+                                       53,
+                                       51,
+                                       48,
+                                       51,
+                                       45,
+                                       54,
+                                       52,
+                                       48,
+                                       49
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2010",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       21,
+                                       13,
+                                       37,
+                                       22,
+                                       29,
+                                       26,
+                                       27,
+                                       26,
+                                       26,
+                                       27,
+                                       40,
+                                       26
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       39,
+                                       43,
+                                       44,
+                                       40,
+                                       35,
+                                       41,
+                                       39,
+                                       41,
+                                       42,
+                                       43,
+                                       39,
+                                       42
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       38,
+                                       45,
+                                       38,
+                                       42,
+                                       42,
+                                       42,
+                                       46,
+                                       47,
+                                       38,
+                                       42,
+                                       41,
+                                       48
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2011",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       19,
+                                       20,
+                                       23,
+                                       32,
+                                       23,
+                                       20,
+                                       23,
+                                       21,
+                                       20,
+                                       18,
+                                       26,
+                                       19
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       43,
+                                       44,
+                                       49,
+                                       44,
+                                       44,
+                                       48,
+                                       47,
+                                       44,
+                                       46,
+                                       47,
+                                       42,
+                                       43
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       53,
+                                       48,
+                                       52,
+                                       52,
+                                       50,
+                                       52,
+                                       53,
+                                       52,
+                                       51,
+                                       52,
+                                       52,
+                                       55
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000001",
+              "reportName": "生息资产结构2012",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未结账（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       20,
+                                       31,
+                                       23,
+                                       28,
+                                       35,
+                                       40,
+                                       44,
+                                       36,
+                                       34,
+                                       37,
+                                       26,
+                                       28
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F4C7C5",
+                         "color2": "EB6B70"
+                         },
+                         "dataValue": [
+                                       50,
+                                       45,
+                                       41,
+                                       48,
+                                       42,
+                                       46,
+                                       41,
+                                       48,
+                                       45,
+                                       43,
+                                       45,
+                                       50
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F6E497",
+                         "color2": "FFC0000"
+                         },
+                         "dataValue": [
+                                       35,
+                                       38,
+                                       44,
+                                       42,
+                                       43,
+                                       41,
+                                       45,
+                                       42,
+                                       41,
+                                       38,
+                                       44,
+                                       40
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              }
+              ]
+  },
+  {
+  "documentID": "000029",
+  "documentName": "生息资产情况",
+  "documentDesc": "描述",
+  "reports": [
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2005",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 2,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "0.2",
+                         "angle": 90,
+                         "isGradient": true,
+                         "color1": "000000",
+                         "color2": "d6d8d9"
+                         },
+                         "dataValue": [
+                                       114.13,
+                                       118.87,
+                                       114.34,
+                                       110.07,
+                                       115.26,
+                                       113.81,
+                                       117.25,
+                                       113.98,
+                                       118.95,
+                                       114.16,
+                                       115.7,
+                                       114.08
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2006",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 2,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       118.59,
+                                       111.08,
+                                       112.23,
+                                       118.72,
+                                       119.53,
+                                       112.3,
+                                       118.47,
+                                       119.28,
+                                       118.53,
+                                       113.18,
+                                       119.87,
+                                       113.5
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2007",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 2,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 90,
+                         "isGradient": true,
+                         "color1": "555e6f",
+                         "color2": "6b738a"
+                         },
+                         "dataValue": [
+                                       116.99,
+                                       118.46,
+                                       110.3,
+                                       113.23,
+                                       113.17,
+                                       113.6,
+                                       113.4,
+                                       111.88,
+                                       112.63,
+                                       114.41,
+                                       110.87,
+                                       118.12
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2008",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       117.14,
+                                       113.2,
+                                       113.92,
+                                       116.97,
+                                       119.39,
+                                       119.75,
+                                       113.45,
+                                       110.86,
+                                       116.38,
+                                       111.2,
+                                       117.06,
+                                       114.18
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.83,
+                                       -3.37,
+                                       0.64,
+                                       2.68,
+                                       2.06,
+                                       0.3,
+                                       -5.26,
+                                       -2.28,
+                                       4.98,
+                                       -4.46,
+                                       5.27,
+                                       -2.46
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2009",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       114,
+                                       110.41,
+                                       118.82,
+                                       110.18,
+                                       113.88,
+                                       117.85,
+                                       114.07,
+                                       115.44,
+                                       118.39,
+                                       112.42,
+                                       111.39,
+                                       114.76
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.16,
+                                       -3.15,
+                                       7.62,
+                                       -7.27,
+                                       3.36,
+                                       3.49,
+                                       -3.2,
+                                       1.19,
+                                       2.56,
+                                       -5.04,
+                                       -0.92,
+                                       3.03
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2010",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       98.43,
+                                       101.19,
+                                       119.09,
+                                       104.39,
+                                       107.12,
+                                       108.72,
+                                       112.22,
+                                       113.98,
+                                       106.62,
+                                       112.36,
+                                       119.45,
+                                       115.23
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -14.23,
+                                       2.8,
+                                       17.69,
+                                       -12.35,
+                                       2.62,
+                                       1.49,
+                                       3.22,
+                                       1.57,
+                                       -6.46,
+                                       5.38,
+                                       6.31,
+                                       -3.53
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产2011",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       115.2,
+                                       111.67,
+                                       124.23,
+                                       127.44,
+                                       117.38,
+                                       120.32,
+                                       122.93,
+                                       117.11,
+                                       116.29,
+                                       117.82,
+                                       119.94,
+                                       116.43
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FC5A28",
+                         "color2": "8fd6ff"
+                         },
+                         "dataValue": [
+                                       -0.02,
+                                       -3.07,
+                                       11.25,
+                                       2.58,
+                                       -7.9,
+                                       2.51,
+                                       2.17,
+                                       -4.73,
+                                       -0.7,
+                                       1.32,
+                                       1.79,
+                                       -2.92
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000001",
+              "reportName": "生息资产2012",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "生息资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       105.2,
+                                       114.43,
+                                       108.66,
+                                       117.89,
+                                       120.11,
+                                       127.34,
+                                       129.57,
+                                       125.8,
+                                       120.02,
+                                       118.25,
+                                       115.48,
+                                       117.71
+                                       ]
+                         },
+                         {
+                         "metricName": "生息资产增幅（%）",
+                         "plotType": 1,
+                         "y2Axis": true,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F05A28",
+                         "color2": "4482BB"
+                         },
+                         "dataValue": [
+                                       -5.23,
+                                       10.1,
+                                       -4.51,
+                                       8.73,
+                                       6.04,
+                                       -1.61,
+                                       9.01,
+                                       -7.48,
+                                       -2.26,
+                                       -2.43,
+                                       -2.06,
+                                       2.63
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2005",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       17,
+                                       23,
+                                       19,
+                                       19,
+                                       16,
+                                       15,
+                                       25,
+                                       26,
+                                       26,
+                                       26,
+                                       21,
+                                       22
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       48,
+                                       43,
+                                       48,
+                                       41,
+                                       48,
+                                       49,
+                                       40,
+                                       41,
+                                       45,
+                                       40,
+                                       45,
+                                       45
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       53,
+                                       48,
+                                       50,
+                                       51,
+                                       50,
+                                       52,
+                                       47,
+                                       48,
+                                       48,
+                                       50,
+                                       47
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2006",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       17,
+                                       19,
+                                       14,
+                                       30,
+                                       24,
+                                       10,
+                                       20,
+                                       24,
+                                       21,
+                                       22,
+                                       19,
+                                       18
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       47,
+                                       40,
+                                       48,
+                                       41,
+                                       43,
+                                       49,
+                                       43,
+                                       44,
+                                       42,
+                                       44,
+                                       50,
+                                       42
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       55,
+                                       51,
+                                       50,
+                                       48,
+                                       53,
+                                       53,
+                                       55,
+                                       52,
+                                       55,
+                                       47,
+                                       51,
+                                       54
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2007",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       26,
+                                       24,
+                                       16,
+                                       16,
+                                       15,
+                                       20,
+                                       15,
+                                       21,
+                                       14,
+                                       16,
+                                       15,
+                                       31
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       41,
+                                       44,
+                                       47,
+                                       50,
+                                       45,
+                                       45,
+                                       46,
+                                       42,
+                                       44,
+                                       46,
+                                       46,
+                                       41
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       51,
+                                       47,
+                                       47,
+                                       54,
+                                       49,
+                                       52,
+                                       48,
+                                       54,
+                                       52,
+                                       50,
+                                       47
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2008",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       20,
+                                       21,
+                                       14,
+                                       20,
+                                       25,
+                                       34,
+                                       19,
+                                       16,
+                                       28,
+                                       17,
+                                       22,
+                                       16
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       46,
+                                       41,
+                                       49,
+                                       46,
+                                       49,
+                                       40,
+                                       40,
+                                       41,
+                                       41,
+                                       45,
+                                       42,
+                                       48
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       50,
+                                       51,
+                                       51,
+                                       51,
+                                       45,
+                                       46,
+                                       54,
+                                       54,
+                                       47,
+                                       49,
+                                       53,
+                                       50
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2009",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       22,
+                                       21,
+                                       25,
+                                       11,
+                                       21,
+                                       23,
+                                       16,
+                                       26,
+                                       21,
+                                       11,
+                                       22,
+                                       18
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       40,
+                                       41,
+                                       48,
+                                       46,
+                                       43,
+                                       47,
+                                       47,
+                                       44,
+                                       43,
+                                       49,
+                                       42,
+                                       47
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       51,
+                                       48,
+                                       46,
+                                       53,
+                                       51,
+                                       48,
+                                       51,
+                                       45,
+                                       54,
+                                       52,
+                                       48,
+                                       49
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2010",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       21,
+                                       13,
+                                       37,
+                                       22,
+                                       29,
+                                       26,
+                                       27,
+                                       26,
+                                       26,
+                                       27,
+                                       40,
+                                       26
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       39,
+                                       43,
+                                       44,
+                                       40,
+                                       35,
+                                       41,
+                                       39,
+                                       41,
+                                       42,
+                                       43,
+                                       39,
+                                       42
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       38,
+                                       45,
+                                       38,
+                                       42,
+                                       42,
+                                       42,
+                                       46,
+                                       47,
+                                       38,
+                                       42,
+                                       41,
+                                       48
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000076",
+              "reportName": "生息资产结构2011",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未抛帐(亿)",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       19,
+                                       20,
+                                       23,
+                                       32,
+                                       23,
+                                       20,
+                                       23,
+                                       21,
+                                       20,
+                                       18,
+                                       26,
+                                       19
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "EB6B70",
+                         "color2": "F4C7C5"
+                         },
+                         "dataValue": [
+                                       43,
+                                       44,
+                                       49,
+                                       44,
+                                       44,
+                                       48,
+                                       47,
+                                       44,
+                                       46,
+                                       47,
+                                       42,
+                                       43
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "FFC000\n",
+                         "color2": "F6E497"
+                         },
+                         "dataValue": [
+                                       53,
+                                       48,
+                                       52,
+                                       52,
+                                       50,
+                                       52,
+                                       53,
+                                       52,
+                                       51,
+                                       52,
+                                       52,
+                                       55
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000001",
+              "reportName": "生息资产结构2012",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "分期未结账（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       20,
+                                       31,
+                                       23,
+                                       28,
+                                       35,
+                                       40,
+                                       44,
+                                       36,
+                                       34,
+                                       37,
+                                       26,
+                                       28
+                                       ]
+                         },
+                         {
+                         "metricName": "循环资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F4C7C5",
+                         "color2": "EB6B70"
+                         },
+                         "dataValue": [
+                                       50,
+                                       45,
+                                       41,
+                                       48,
+                                       42,
+                                       46,
+                                       41,
+                                       48,
+                                       45,
+                                       43,
+                                       45,
+                                       50
+                                       ]
+                         },
+                         {
+                         "metricName": "CA资产（亿）",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "F6E497",
+                         "color2": "FFC0000"
+                         },
+                         "dataValue": [
+                                       35,
+                                       38,
+                                       44,
+                                       42,
+                                       43,
+                                       41,
+                                       45,
+                                       42,
+                                       41,
+                                       38,
+                                       44,
+                                       40
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              }
+              ]
+  }
+  ]

@@ -1,0 +1,22 @@
+#!/bin/sh
+CONFIG_ROOT_PATH=“/Users/jingfuran/Desktop/3in1”
+cd $CONFIG_ROOT_PATH
+#循环数组
+CHANNELID=("aaa" "bbb" "ccc")
+CHANNEL_SECRET=("111" "222" "333")
+for ((i=0;i<${#CHANNELID[@]};i++))
+do
+#删除
+rm -rf "/Users/jingfuran/Desktop/3in1/build/"
+#清除
+ xcodebuild -target E-magazine clean
+   echo ${CHANNELID[$i]}
+   echo ${CHANNEL_SECRET[$i]}
+   #修改plist
+   /usr/libexec/PlistBuddy -c "set :CHANNELID ${CHANNELID[$i]}" /Users/jingfuran/Desktop/3in1/E-magazine/E-magazine-Info.plist
+   /usr/libexec/PlistBuddy -c "set :CHANNEL_SECRET ${CHANNEL_SECRET[$i]}" /Users/jingfuran/Desktop/3in1/E-magazine/E-magazine-Info.plist
+   #打包
+   xcodebuild -target E-magazine -configuration Distribution -sdk iphoneos build
+   #生成ipa
+   xcrun -sdk iphoneos PackageApplication -v "/Users/jingfuran/Desktop/3in1/build/Release-iphoneos/yourapp.app" -o "/Users/jingfuran/Desktop/3in1/yourappname_${CHANNELID[$i]}.ipa"
+done

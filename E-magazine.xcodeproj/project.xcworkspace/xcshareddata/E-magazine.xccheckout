@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5D40C4F9-AF78-4572-BB8B-2F076F0620FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>E-magazine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A328111-A732-406A-A688-CE4F5DEF0DD7</key>
+		<string>http://10.0.3.20:9880/CHNG_APP</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/3in1/E-magazine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A328111-A732-406A-A688-CE4F5DEF0DD7</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4A328111-A732-406A-A688-CE4F5DEF0DD7</key>
+		<string>http://10.0.3.20:9880/CHNG_APP</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.0.3.20:9880/CHNG_APP/trunk/%E5%8D%8E%E8%83%BD%E6%9D%82%E5%BF%97/E-magazine.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A328111-A732-406A-A688-CE4F5DEF0DD7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A328111-A732-406A-A688-CE4F5DEF0DD7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CHNG_app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
