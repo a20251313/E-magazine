@@ -52,13 +52,17 @@
     }
     return document;
 }
--(NSMutableDictionary*)getDocumentDictionaryMagazine:(NSString *)documentID
+-(NSMutableDictionary*)getDocumentDictionaryMagazine:(NSString *)documentID fileName:(NSString*)strName
 {
-    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"magazine" ofType:@"json"];
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:strName ofType:@"json"];
     NSData *jsonData = [[NSData alloc] initWithContentsOfFile:filePath];
 
     NSError *error = nil;
     NSMutableArray *jsonObject = (NSMutableArray*)[NSJSONSerialization JSONObjectWithData:jsonData options:NSJSONReadingAllowFragments error:&error];
+    if (error)
+    {
+        NSLog(@"getDocumentDictionaryMagazine error occurd:%@ documentID:%@",error,documentID);
+    }
     NSMutableDictionary *document=[[NSMutableDictionary alloc]init];
     for (NSMutableDictionary *sourceDocument in jsonObject) {
         if ([documentID isEqualToString:[sourceDocument objectForKey:@"documentID"]]) {

@@ -1,0 +1,4351 @@
+﻿ [
+  {
+  "documentID": "000000",
+  "documentName": "分期",
+  "documentDesc": "描述",
+  "reports": [
+              {
+              "reportID": "000030",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       318.686,
+                                       320.275,
+                                       323.339,
+                                       325.767,
+                                       327.872,
+                                       327.528,
+                                       329.682,
+                                       329.822,
+                                       328.486,
+                                       323.509,
+                                       315.541,
+                                       311.965
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       323.075,
+                                       323.766,
+                                       323.587,
+                                       329.152,
+                                       332.811,
+                                       332.42,
+                                       333.43,
+                                       333.298,
+                                       331.765,
+                                       327.87,
+                                       320.661,
+                                       317.71
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000031",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       302.47,
+                                       300.64,
+                                       304.26,
+                                       306.73,
+                                       304.19,
+                                       305.32,
+                                       306.52,
+                                       307.1,
+                                       306.56,
+                                       305.97,
+                                       296.77,
+                                       296.57
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       306.33,
+                                       304.95,
+                                       305.66,
+                                       309.49,
+                                       309.37,
+                                       309.12,
+                                       307.51,
+                                       308.87,
+                                       307.3,
+                                       306.94,
+                                       300.68,
+                                       301.82
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000032",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       324.52,
+                                       326.62,
+                                       333.01,
+                                       339.73,
+                                       339.21,
+                                       339.39,
+                                       340.41,
+                                       342.9,
+                                       341.33,
+                                       335.35,
+                                       324.43,
+                                       319.5
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       329.54,
+                                       330.67,
+                                       334.47,
+                                       339.87,
+                                       344.79,
+                                       344.73,
+                                       344.02,
+                                       342.84,
+                                       343.28,
+                                       337.77,
+                                       327.72,
+                                       327.17
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000033",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       307.75,
+                                       308.96,
+                                       315.13,
+                                       308.81,
+                                       327.16,
+                                       323.98,
+                                       326.72,
+                                       321.76,
+                                       319.99,
+                                       304.02,
+                                       298.06,
+                                       293.26
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       303.16,
+                                       305.52,
+                                       309.78,
+                                       313.94,
+                                       327.98,
+                                       333.21,
+                                       332.65,
+                                       331.57,
+                                       333.07,
+                                       320.83,
+                                       316.37,
+                                       311.93
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000034",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       304.42,
+                                       314.42,
+                                       315.6,
+                                       319.51,
+                                       318.6,
+                                       318.45,
+                                       327.77,
+                                       320.73,
+                                       318.16,
+                                       317.12,
+                                       301.05,
+                                       296.61
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       313.01,
+                                       315.12,
+                                       310.14,
+                                       327.69,
+                                       329.2,
+                                       326.26,
+                                       326.93,
+                                       322.55,
+                                       320.78,
+                                       322.43,
+                                       300.44,
+                                       299.22
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000035",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       330.38,
+                                       335.42,
+                                       331.26,
+                                       322.71,
+                                       320.89,
+                                       322.57,
+                                       324.18,
+                                       321.46,
+                                       319.68,
+                                       317,
+                                       314.45,
+                                       315.82
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       332.27,
+                                       334.39,
+                                       325.1,
+                                       326.3,
+                                       321.78,
+                                       316.67,
+                                       326.79,
+                                       327.95,
+                                       327.61,
+                                       324.13,
+                                       323.43,
+                                       322.1
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000036",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       311.45,
+                                       312.72,
+                                       314.97,
+                                       322.7,
+                                       321.94,
+                                       321.61,
+                                       324.69,
+                                       329.04,
+                                       323.69,
+                                       323.14,
+                                       314.8,
+                                       310.05
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       317.72,
+                                       316.98,
+                                       320.2,
+                                       326.13,
+                                       329.19,
+                                       329.85,
+                                       329.55,
+                                       329.32,
+                                       327.99,
+                                       326.78,
+                                       320.93,
+                                       315.64
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000037",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       320.9,
+                                       317.86,
+                                       318.08,
+                                       321.59,
+                                       319.57,
+                                       318.77,
+                                       319.91,
+                                       323.63,
+                                       325.12,
+                                       322.96,
+                                       315.32,
+                                       314.38
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       319.13,
+                                       317.28,
+                                       319.11,
+                                       319.98,
+                                       321.58,
+                                       325.27,
+                                       325.42,
+                                       325.69,
+                                       325.49,
+                                       321.01,
+                                       320.75,
+                                       319.6
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000038",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       327.42,
+                                       327.31,
+                                       327.2,
+                                       327,
+                                       326.37,
+                                       326.73,
+                                       326.51,
+                                       325.98,
+                                       326.07,
+                                       325.6,
+                                       322.48,
+                                       321.03
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       328.49,
+                                       328.21,
+                                       328.01,
+                                       328.08,
+                                       328.13,
+                                       328.24,
+                                       328.28,
+                                       328.25,
+                                       328.3,
+                                       328.26,
+                                       328.02,
+                                       328.05
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000039",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       324.6,
+                                       327.56,
+                                       341.07,
+                                       354.59,
+                                       366.08,
+                                       363.2,
+                                       363.61,
+                                       367.19,
+                                       365.89,
+                                       354.99,
+                                       339.21,
+                                       325.19
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       345.94,
+                                       348.86,
+                                       348.88,
+                                       363.11,
+                                       371.7,
+                                       366.82,
+                                       367.87,
+                                       368.8,
+                                       366.97,
+                                       355.2,
+                                       333.09,
+                                       316.52
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000040",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       332.95,
+                                       331.24,
+                                       332.81,
+                                       334.3,
+                                       334.71,
+                                       335.26,
+                                       336.5,
+                                       338.43,
+                                       338.37,
+                                       328.94,
+                                       328.84,
+                                       327.24
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       335.16,
+                                       335.68,
+                                       334.52,
+                                       336.93,
+                                       344.39,
+                                       344.03,
+                                       345.28,
+                                       347.14,
+                                       336.86,
+                                       335.35,
+                                       335.18,
+                                       335.05
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000041",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       362.91,
+                                       280.532142857143,
+                                       353.822857142857,
+                                       358.176428571429,
+                                       375.131428571429,
+                                       394.721428571429,
+                                       391.363571428571,
+                                       407.937142857143,
+                                       375.215714285714,
+                                       385.091428571429,
+                                       375.103571428571,
+                                       378.422857142857
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       337.239285714286,
+                                       345.299285714286,
+                                       391.248571428571,
+                                       382.535714285714,
+                                       392.515,
+                                       394.428571428571,
+                                       438.914285714286,
+                                       425.742857142857,
+                                       372.537857142857,
+                                       386.474285714286,
+                                       367.190714285714,
+                                       385.697142857143
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000042",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       454.63,
+                                       308.52,
+                                       432.02,
+                                       392.61,
+                                       386.16,
+                                       376.9,
+                                       455.16,
+                                       478.62,
+                                       350.15,
+                                       366.19,
+                                       409.04,
+                                       478.78
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       380.7,
+                                       419.66,
+                                       454.85,
+                                       394.17,
+                                       385.94,
+                                       384.15,
+                                       415.76,
+                                       394.76,
+                                       350.53,
+                                       368.38,
+                                       404.57,
+                                       471.94
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000043",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       414.43,
+                                       326.91,
+                                       379.96,
+                                       398.96,
+                                       425.83,
+                                       383.29,
+                                       428.36,
+                                       433.51,
+                                       423.55,
+                                       461.96,
+                                       459.65,
+                                       467.77
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       375.53,
+                                       366.26,
+                                       389.84,
+                                       391.3,
+                                       394.49,
+                                       385.94,
+                                       415.08,
+                                       440.59,
+                                       424.4,
+                                       390.04,
+                                       398.98,
+                                       435.41
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000044",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       403.99,
+                                       327.1,
+                                       380.99,
+                                       418.02,
+                                       355.12,
+                                       420.87,
+                                       352.96,
+                                       423.93,
+                                       430.13,
+                                       404.13,
+                                       385.39,
+                                       432.61
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       400.72,
+                                       409.81,
+                                       451.77,
+                                       381.81,
+                                       440.69,
+                                       416.85,
+                                       439.66,
+                                       443.12,
+                                       338.34,
+                                       383.11,
+                                       358.93,
+                                       350.17
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000045",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       307.6,
+                                       239.16,
+                                       279.06,
+                                       290.16,
+                                       271.08,
+                                       303,
+                                       289.89,
+                                       293.84,
+                                       291.26,
+                                       305.12,
+                                       286.91,
+                                       284.86
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       274.09,
+                                       250.17,
+                                       258.49,
+                                       239.74,
+                                       249.91,
+                                       297.67,
+                                       313.03,
+                                       378.57,
+                                       353,
+                                       350.56,
+                                       264.15,
+                                       294.1
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000046",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       377.6,
+                                       277.47,
+                                       327.92,
+                                       319.61,
+                                       319.93,
+                                       341.66,
+                                       250.61,
+                                       251.76,
+                                       309.66,
+                                       362.72,
+                                       312.51,
+                                       328.48
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       335.78,
+                                       323.6,
+                                       362.29,
+                                       332.95,
+                                       432.01,
+                                       347.71,
+                                       410.82,
+                                       334.65,
+                                       242.36,
+                                       317.35,
+                                       281.08,
+                                       395.73
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000047",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       473.12,
+                                       319.25,
+                                       424.43,
+                                       421.39,
+                                       425.31,
+                                       458.26,
+                                       497.39,
+                                       544.19,
+                                       430.06,
+                                       430.28,
+                                       456.87,
+                                       526.17
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       389.73,
+                                       448.31,
+                                       522.61,
+                                       461.56,
+                                       459.46,
+                                       441.47,
+                                       494.66,
+                                       475.63,
+                                       393.3,
+                                       408.12,
+                                       452.79,
+                                       480.53
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000048",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       447.15,
+                                       342.57,
+                                       484.53,
+                                       492.03,
+                                       582.29,
+                                       591.08,
+                                       570.27,
+                                       479.44,
+                                       444.38,
+                                       482.48,
+                                       458.75,
+                                       490.91
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       397.77,
+                                       426.67,
+                                       538.93,
+                                       556.6,
+                                       556.2,
+                                       489.84,
+                                       531.73,
+                                       534.35,
+                                       472.35,
+                                       516.03,
+                                       500.82,
+                                       474.06
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000049",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       560.16,
+                                       516.66,
+                                       601.46,
+                                       574.4,
+                                       591.93,
+                                       457.04,
+                                       541.48,
+                                       684.73,
+                                       556.48,
+                                       465.23,
+                                       465.41,
+                                       598.88
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       651.17,
+                                       554.41,
+                                       624.57,
+                                       651.92,
+                                       636.56,
+                                       493.68,
+                                       546.89,
+                                       454.8,
+                                       289.12,
+                                       347.64,
+                                       452.87,
+                                       547.34
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000050",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       316.96,
+                                       216.78,
+                                       316.02,
+                                       381.13,
+                                       385.39,
+                                       464.07,
+                                       493.86,
+                                       524.09,
+                                       431.2,
+                                       403.99,
+                                       410.28,
+                                       320.17
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       389.48,
+                                       389.2,
+                                       463.07,
+                                       389.66,
+                                       413.24,
+                                       504.22,
+                                       486.34,
+                                       452.93,
+                                       424.21,
+                                       343.2,
+                                       331.51,
+                                       343.26
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000051",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       435.95,
+                                       285.42,
+                                       356.8,
+                                       316.86,
+                                       318.99,
+                                       290.52,
+                                       332.18,
+                                       334.04,
+                                       290.89,
+                                       380.96,
+                                       420.69,
+                                       440.3
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       445.12,
+                                       468.01,
+                                       534.18,
+                                       475.78,
+                                       358.38,
+                                       409.95,
+                                       365.17,
+                                       312.19,
+                                       287.46,
+                                       342.17,
+                                       505.44,
+                                       549.79
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000052",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       345.45,
+                                       252.95,
+                                       259.11,
+                                       366.99,
+                                       414.33,
+                                       416.81,
+                                       326.96,
+                                       304.19,
+                                       373.12,
+                                       471.67,
+                                       501.17,
+                                       390.47
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       231.04,
+                                       232.59,
+                                       227.2,
+                                       250.14,
+                                       295.2,
+                                       345.67,
+                                       508.67,
+                                       537.24,
+                                       496.71,
+                                       452.28,
+                                       398.96,
+                                       386.09
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000053",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       302.38,
+                                       251.42,
+                                       297.43,
+                                       212.6,
+                                       362.02,
+                                       566.54,
+                                       471.28,
+                                       503.11,
+                                       452.51,
+                                       411.51,
+                                       292,
+                                       276.21
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       267.58,
+                                       242.74,
+                                       254.16,
+                                       306.83,
+                                       395.04,
+                                       486.12,
+                                       536.75,
+                                       608.37,
+                                       543.15,
+                                       534.03,
+                                       303.46,
+                                       338.53
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000054",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       83.34,
+                                       103.49,
+                                       187.17,
+                                       214.14,
+                                       236.71,
+                                       305.15,
+                                       341.87,
+                                       322.02,
+                                       325.37,
+                                       289.55,
+                                       189.38,
+                                       104.96
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       95.42,
+                                       161.96,
+                                       229.86,
+                                       342.77,
+                                       342.73,
+                                       391.53,
+                                       567.65,
+                                       495.5,
+                                       486.97,
+                                       498.81,
+                                       305,
+                                       112.12
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              },
+              {
+              "reportID": "000055",
+              "reportName": "欣百达Cymbalta销量目标",
+              "reportDesc": "11",
+              "reportType": "BAReportTypeBar",
+              "reportData": {
+              "metric": [
+                         {
+                         "metricName": "销量",
+                         "plotType": 0,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": true,
+                         "color1": "73AED9",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       157.98,
+                                       159.75,
+                                       226.62,
+                                       215.57,
+                                       176.75,
+                                       150.91,
+                                       126.82,
+                                       133.65,
+                                       144.26,
+                                       155.49,
+                                       203.4,
+                                       157.35
+                                       ]
+                         },
+                         {
+                         "metricName": "销量目标",
+                         "plotType": 1,
+                         "y2Axis": false,
+                         "fillColor": {
+                         "alpha": "1",
+                         "angle": 0,
+                         "isGradient": false,
+                         "color1": "FC5A28",
+                         "color2": "CCE0F4"
+                         },
+                         "dataValue": [
+                                       87.22,
+                                       140.8,
+                                       165.66,
+                                       180.27,
+                                       135.36,
+                                       127.2,
+                                       112.59,
+                                       97.7,
+                                       113.63,
+                                       158.92,
+                                       182.11,
+                                       220.69
+                                       ]
+                         }
+                         ],
+              "entity": {
+              "entityName": "月份",
+              "entityData": [
+                             "1月",
+                             "2月",
+                             "3月",
+                             "4月",
+                             "5月",
+                             "6月",
+                             "7月",
+                             "8月",
+                             "9月",
+                             "10月",
+                             "11月",
+                             "12月"
+                             ]
+              }
+              },
+              "title": {
+              "titleText": "测试标题",
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "legend": {
+              "legendAnchor": 3,
+              "borderStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "textStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              },
+              "graph": {
+              "axisLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "majorGridLineStyle": {
+              "lineColor": "000000",
+              "lineWidth": 2
+              },
+              "xLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "yLabelStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "fillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              }
+              },
+              "table": {
+              "contentHeight": 20,
+              "titleHeight": 20,
+              "contentFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "titleFillColor": {
+              "alpha": "1.0",
+              "angle": 0,
+              "isGradient": false,
+              "color1": "ffffff",
+              "color2": "000000"
+              },
+              "contentTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              },
+              "titleTextStyle": {
+              "color": "000000",
+              "fontName": "Helvetica",
+              "fontSize": 12,
+              "rotation": 0
+              }
+              }
+              }
+              ]
+  }
+  ]

@@ -14,9 +14,15 @@
 		04B02FDF16C1350500A65723 /* return.png in Resources */ = {isa = PBXBuildFile; fileRef = 04B02FD116C1350500A65723 /* return.png */; };
 		04B02FE216C1350500A65723 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 04B02FD416C1350500A65723 /* share.png */; };
 		04E7E3C516BAD00E0067F065 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04E7E3C416BAD00E0067F065 /* MediaPlayer.framework */; };
-		0E4C7AE81A2DB1DE0095ABA9 /* magazine.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E4C7AE71A2DB1DE0095ABA9 /* magazine.json */; };
+		0E58B4D91A2ED896000D7BF6 /* magazine_yusuan.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B4D81A2ED896000D7BF6 /* magazine_yusuan.json */; };
+		0E58B4DC1A2EEF55000D7BF6 /* companyName2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B4DA1A2EEF55000D7BF6 /* companyName2.txt */; };
+		0E58B4DD1A2EEF55000D7BF6 /* companyName3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B4DB1A2EEF55000D7BF6 /* companyName3.txt */; };
+		0E58B4DF1A2EFA05000D7BF6 /* magazine_ansheng.json in Resources */ = {isa = PBXBuildFile; fileRef = 0E58B4DE1A2EFA05000D7BF6 /* magazine_ansheng.json */; };
 		0EE3BBAA1A2D5153003B0B4C /* BAColorHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EE3BBA91A2D5153003B0B4C /* BAColorHelper.m */; };
 		0EF41F2E1A2EA75E0009430E /* companyName.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0EF41F2D1A2EA75E0009430E /* companyName.txt */; };
+		0EF41F321A2EBCC30009430E /* BFMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EF41F301A2EBCC30009430E /* BFMainViewController.m */; };
+		0EF41F331A2EBCC30009430E /* BFMainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EF41F311A2EBCC30009430E /* BFMainViewController.xib */; };
+		0EF41F351A2EBF810009430E /* magazine.json in Resources */ = {isa = PBXBuildFile; fileRef = 0EF41F341A2EBF810009430E /* magazine.json */; };
 		1FE391961739046E00D64DDB /* arrow-down01.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FE3918E1739046E00D64DDB /* arrow-down01.png */; };
 		1FE391971739046E00D64DDB /* arrow-up01.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FE3918F1739046E00D64DDB /* arrow-up01.png */; };
 		1FE391981739046E00D64DDB /* bg-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 1FE391901739046E00D64DDB /* bg-01.png */; };
@@ -122,10 +128,17 @@
 		04B02FD416C1350500A65723 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
 		04D5C8F416EE43F000AB7074 /* ControlVariables.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlVariables.h; sourceTree = "<group>"; };
 		04E7E3C416BAD00E0067F065 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
-		0E4C7AE71A2DB1DE0095ABA9 /* magazine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = magazine.json; sourceTree = "<group>"; };
+		0E58B4D81A2ED896000D7BF6 /* magazine_yusuan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = magazine_yusuan.json; sourceTree = "<group>"; };
+		0E58B4DA1A2EEF55000D7BF6 /* companyName2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = companyName2.txt; sourceTree = "<group>"; };
+		0E58B4DB1A2EEF55000D7BF6 /* companyName3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = companyName3.txt; sourceTree = "<group>"; };
+		0E58B4DE1A2EFA05000D7BF6 /* magazine_ansheng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = magazine_ansheng.json; sourceTree = "<group>"; };
 		0EE3BBA81A2D5153003B0B4C /* BAColorHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BAColorHelper.h; sourceTree = "<group>"; };
 		0EE3BBA91A2D5153003B0B4C /* BAColorHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BAColorHelper.m; sourceTree = "<group>"; };
 		0EF41F2D1A2EA75E0009430E /* companyName.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = companyName.txt; sourceTree = "<group>"; };
+		0EF41F2F1A2EBCC30009430E /* BFMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BFMainViewController.h; sourceTree = "<group>"; };
+		0EF41F301A2EBCC30009430E /* BFMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BFMainViewController.m; sourceTree = "<group>"; };
+		0EF41F311A2EBCC30009430E /* BFMainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BFMainViewController.xib; sourceTree = "<group>"; };
+		0EF41F341A2EBF810009430E /* magazine.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = magazine.json; sourceTree = "<group>"; };
 		1FE3918E1739046E00D64DDB /* arrow-down01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down01.png"; sourceTree = "<group>"; };
 		1FE3918F1739046E00D64DDB /* arrow-up01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up01.png"; sourceTree = "<group>"; };
 		1FE391901739046E00D64DDB /* bg-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-01.png"; sourceTree = "<group>"; };
@@ -626,8 +639,12 @@
 		AA5A3D2D16B1AED200649F82 /* DataModel */ = {
 			isa = PBXGroup;
 			children = (
-				0E4C7AE71A2DB1DE0095ABA9 /* magazine.json */,
+				0EF41F341A2EBF810009430E /* magazine.json */,
+				0E58B4D81A2ED896000D7BF6 /* magazine_yusuan.json */,
+				0E58B4DE1A2EFA05000D7BF6 /* magazine_ansheng.json */,
 				0EF41F2D1A2EA75E0009430E /* companyName.txt */,
+				0E58B4DA1A2EEF55000D7BF6 /* companyName2.txt */,
+				0E58B4DB1A2EEF55000D7BF6 /* companyName3.txt */,
 				AA5A3D3216B1AED200649F82 /* document.json */,
 				AA5A3D3316B1AED200649F82 /* document1.txt */,
 				AA5A3D3516B1AED200649F82 /* documentList.json */,
@@ -796,6 +813,9 @@
 				9F68DA2D178CFDA000FC2BAE /* BFGraphViewController1.h */,
 				9F68DA2E178CFDA200FC2BAE /* BFGraphViewController1.m */,
 				9F68DA2F178CFDA300FC2BAE /* BFGraphViewController1.xib */,
+				0EF41F2F1A2EBCC30009430E /* BFMainViewController.h */,
+				0EF41F301A2EBCC30009430E /* BFMainViewController.m */,
+				0EF41F311A2EBCC30009430E /* BFMainViewController.xib */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -853,6 +873,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA5A3CE216B1AE9D00649F82 /* InfoPlist.strings in Resources */,
+				0E58B4DD1A2EEF55000D7BF6 /* companyName3.txt in Resources */,
 				AA5A3CEA16B1AE9D00649F82 /* Default.png in Resources */,
 				AA5A3CEC16B1AE9D00649F82 /* Default@2x.png in Resources */,
 				AA5A3CEE16B1AE9D00649F82 /* Default-568h@2x.png in Resources */,
@@ -868,9 +889,9 @@
 				AA4142DE16B21F3D00C63A06 /* icon05.png in Resources */,
 				4610C67216B7761F00A17BB0 /* json_cubic.data in Resources */,
 				4610C67316B7761F00A17BB0 /* json_s2.data in Resources */,
-				0E4C7AE81A2DB1DE0095ABA9 /* magazine.json in Resources */,
 				4610C67416B7761F00A17BB0 /* json.data in Resources */,
 				AAD773E916B7DE8C009289B6 /* yalitu.json in Resources */,
+				0EF41F331A2EBCC30009430E /* BFMainViewController.xib in Resources */,
 				AAF59A6516B8B3EF00D4CD83 /* graph4-footbar.png in Resources */,
 				AAF59A6A16B8B51800D4CD83 /* graph4-filter.png in Resources */,
 				AAF59A6B16B8B51800D4CD83 /* graph4-serach.png in Resources */,
@@ -878,7 +899,9 @@
 				AAEADC4C16B8E813008C881D /* graph4-table.png in Resources */,
 				465F551716B97B7C000099B6 /* BG.png in Resources */,
 				AAE9CB6C16BBA95500AFD6D0 /* graph1-bar.png in Resources */,
+				0E58B4D91A2ED896000D7BF6 /* magazine_yusuan.json in Resources */,
 				AAE9CB7316BBA95500AFD6D0 /* graph1-thumb-selected.png in Resources */,
+				0E58B4DF1A2EFA05000D7BF6 /* magazine_ansheng.json in Resources */,
 				AAE9CB7516BBA95500AFD6D0 /* graph1-thumb.png in Resources */,
 				043E0D7216BE55D1005A2D1F /* keyword1.mp3 in Resources */,
 				043E0D7616BE5B89005A2D1F /* keyword2.mp3 in Resources */,
@@ -889,6 +912,7 @@
 				04B02FE216C1350500A65723 /* share.png in Resources */,
 				9F26B1231725325500444147 /* test.mp4 in Resources */,
 				1FE391961739046E00D64DDB /* arrow-down01.png in Resources */,
+				0EF41F351A2EBF810009430E /* magazine.json in Resources */,
 				0EF41F2E1A2EA75E0009430E /* companyName.txt in Resources */,
 				1FE391971739046E00D64DDB /* arrow-up01.png in Resources */,
 				1FE391981739046E00D64DDB /* bg-01.png in Resources */,
@@ -898,6 +922,7 @@
 				1FE3919D1739046E00D64DDB /* tablebg-01.png in Resources */,
 				4EB76277174F3B7D00944B5A /* Tock.aiff in Resources */,
 				9F68DA3D178CFDBA00FC2BAE /* BFGraphViewController1.xib in Resources */,
+				0E58B4DC1A2EEF55000D7BF6 /* companyName2.txt in Resources */,
 				7916A6CB18696FAB005B4079 /* line.png in Resources */,
 				7916A6CC18696FAB005B4079 /* line@2x.png in Resources */,
 			);
@@ -945,6 +970,7 @@
 				AAD773E616B7DE8C009289B6 /* gradientView.m in Sources */,
 				AAD773E716B7DE8C009289B6 /* JsonParser.m in Sources */,
 				AAD773E816B7DE8C009289B6 /* Util.m in Sources */,
+				0EF41F321A2EBCC30009430E /* BFMainViewController.m in Sources */,
 				0EE3BBAA1A2D5153003B0B4C /* BAColorHelper.m in Sources */,
 				AAE9CB5D16BBA91400AFD6D0 /* BFGraph1Model.m in Sources */,
 				9F68DA3C178CFDBA00FC2BAE /* BFGraphViewController1.m in Sources */,

@@ -26,4 +26,6 @@
 @property (strong, nonatomic) IBOutlet UILabel *productNameLabel;
 @property (strong, nonatomic) IBOutlet UILabel *rectNameLabel;
 @property (strong, nonatomic) UIButton *button;
+
+-(id)initWithType:(NSUInteger)type;
 @end

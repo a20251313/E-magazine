@@ -8,6 +8,7 @@
 
 #import "BFAppDelegate.h"
 #import "BFGraphViewController1.h"
+#import "BFMainViewController.h"
 @implementation BFAppDelegate
 {
 }
@@ -22,7 +23,7 @@
     
   
    
-    BFGraphViewController1 *vc=[[BFGraphViewController1 alloc]init];
+    BFMainViewController *vc=[[BFMainViewController alloc]init];
  
      UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:vc];
     [self.window setRootViewController:nav];

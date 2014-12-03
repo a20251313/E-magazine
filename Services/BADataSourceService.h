@@ -13,5 +13,5 @@
 -(NSMutableDictionary*)getDocumentDictionary:(NSString *)documentID;
 //-(NSMutableDictionary*)getDocumentListDictionaryFromService;
 -(NSMutableDictionary*)getDocumentDictionaryTest:(NSString *)documentID;
--(NSMutableDictionary*)getDocumentDictionaryMagazine:(NSString *)documentID;
+-(NSMutableDictionary*)getDocumentDictionaryMagazine:(NSString *)documentID fileName:(NSString*)strName;
 @end

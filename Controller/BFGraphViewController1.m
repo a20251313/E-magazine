@@ -17,6 +17,7 @@
 #import "Global.h"
 @interface BFGraphViewController1 ()
 
+@property(nonatomic)NSUInteger dataType;
 @end
 
 @implementation BFGraphViewController1
@@ -53,7 +54,26 @@
 @synthesize productNameLabel;
 @synthesize rectNameLabel;
 @synthesize button;
+@synthesize dataType;
 #pragma mark - custom method
+
+/*
+ *
+ *
+ *  @param type 1是读取magazine.json 数据   2是读取magazine_ansheng.json数据，3是读取magazine_yusuan.json数据
+ *
+ *  @return <#return value description#>
+ */
+-(id)initWithType:(NSUInteger)type
+{
+    self = [super initWithNibName:nil bundle:nil];
+    if (self)
+    {
+        self.dataType = type;
+        
+    }
+    return self;
+}
 -(void)reloadDocument//4
 {
     [self reloadTableCells];
@@ -436,7 +456,8 @@
     [self reloadTableCells];
 }
 - (IBAction)backAction:(UIBarButtonItem *)sender {
-    [self dismissViewControllerAnimated:YES completion:nil];
+  //  [self dismissViewControllerAnimated:YES completion:nil];
+    [self.navigationController popViewControllerAnimated:YES];
 //    [self dismissModalViewControllerAnimated:YES];
 }
 
@@ -455,7 +476,7 @@
     [cell setBackgroundView:[UIView new]];
     [cell setBackgroundColor:[UIColor clearColor]];
     
-    if (indexPath.row<productNameArray.count) {
+    if (indexPath.row<[productNameArray[curRect] count]) {
 
         cell.name.text=[productNameArray[curRect] objectAtIndex:indexPath.row];
 
@@ -495,25 +516,36 @@
     
     [self.navigationController setNavigationBarHidden:YES];
     //NSArray *nameArray=[NSArray arrayWithObjects:@"机组统计台数",@"非停次数",@"台平均非停运次数",@"等效可用系数",@"计划停运系数",@"非计划停运系数",nil];
-    NSArray *nameArray=[NSArray arrayWithObjects:@"发电量",@"利用小时",@"供电耗煤",@"标煤采购单价",@"销售收入",@"利润",nil];
-    itemsArray = [[NSMutableArray alloc] initWithCapacity:nameArray.count];
-    [itemsArray addObjectsFromArray:nameArray];
-    
+    NSArray *nameArray = nil;
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"companyName" ofType:@"txt"];
     BADocumentService *documentService=[[BADocumentService alloc]init];
     BADataSourceService *dataSourceService=[[BADataSourceService alloc]init];
     //从数据源获取document
-    document = [documentService getDocumentWithDictionary:[dataSourceService getDocumentDictionaryMagazine:@"000000"]];
+   
+    if(self.dataType == 1)
+    {
+      nameArray =   [NSArray arrayWithObjects:@"发电量",@"利用小时",@"供电耗煤",@"标煤采购单价",@"销售收入",@"利润",nil];
+     document = [documentService getDocumentWithDictionary:[dataSourceService getDocumentDictionaryMagazine:@"000000" fileName:@"magazine"]];
+    }else if (self.dataType == 2)
+    {
+        nameArray =   [NSArray arrayWithObjects:@"供电煤耗",@"厂用电率",nil];
+        filePath = [[NSBundle mainBundle] pathForResource:@"companyName2" ofType:@"txt"];
+        document = [documentService getDocumentWithDictionary:[dataSourceService getDocumentDictionaryMagazine:@"000000" fileName:@"magazine_ansheng"]];
+    }else if (self.dataType == 3)
+    {
+        nameArray =   [NSArray arrayWithObjects:@"发电量",@"标煤采购单价",@"含税电价",@"管理费用",@"财务费用",@"利润",nil];
+        filePath = [[NSBundle mainBundle] pathForResource:@"companyName3" ofType:@"txt"];
+         document = [documentService getDocumentWithDictionary:[dataSourceService getDocumentDictionaryMagazine:@"000000" fileName:@"magazine_yusuan"]];
+    }
+    itemsArray = [[NSMutableArray alloc] initWithCapacity:nameArray.count];
+    [itemsArray addObjectsFromArray:nameArray];
+    
+  
    // productNameArray=[NSArray arrayWithObjects:@"股份",@"北方",@"呼伦贝尔",@"吉林",@"黑龙江",nil];
     productNameArray = [[NSMutableArray alloc] init];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",nil]];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",nil]];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",nil]];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",nil]];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",@"吉林公司",nil]];
-    [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",nil]];
-    /*
-     NSString *filePath = [[NSBundle mainBundle] pathForResource:@"companyName" ofType:@"txt"];;
-     NSString    *strCompanys = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:nil];
+    
+    
+    NSString    *strCompanys = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:nil];
     strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\n" withString:@""];
     strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\r" withString:@""];
     strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\r\n" withString:@""];
@@ -527,8 +559,8 @@
         }
         [productNameArray addObject:arrSubCompanys];
         
-    }*/
-   // [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",@"吉林公司",@"黑龙江公司",@"海南公司",@"陕西公司",@"甘肃公司",@"宁夏公司",@"新疆公司",@"新能源公司",@"华能集团",nil]];
+    }
+
    
     
     
