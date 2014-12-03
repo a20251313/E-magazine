@@ -176,14 +176,36 @@
 
 -(void)reloadRects
 {
+    
+    NSString   *strCompany = [productNameArray[curRect] objectAtIndex:curCompany];
     for (int i=0; i<rects.count; i++) {
         BADocumentButton *rect=[rects objectAtIndex:i];
-        if ([[models[i] reports] count] <= curCompany)
+    
+        BAReport *report = nil;
+        
+        for (int index = 0;index < [productNameArray[i] count];index++)
         {
-            NSLog(@"[[models[i] reports] count] <= curCompany");
+            NSString *currentCompany = productNameArray[i][index];
+            if ([currentCompany isEqualToString:strCompany])
+            {
+                report =   [[models[i] reports] objectAtIndex:index];
+                break;
+            }
+        }
+        
+        if (report == nil)
+        {
+            rect.arrow.image=nil;
+            rect.dataValue.text = @"";
+            rect.ratioLebel.text = @"";
+            rect.entity.text = @"";
+#if DEBUG
+            NSLog(@"%@ 没有%@的数据",strCompany,itemsArray[curRect]);
+#endif
             continue;
         }
-        BAReport *report= [[models[i] reports] objectAtIndex:curCompany];
+        
+       
         if (0) {
             BAMetric *metric=[report.reportData.metrics objectAtIndex:0];
             double curValue=[[metric.dataValues objectAtIndex:curIndex] doubleValue];
@@ -489,6 +511,23 @@
     [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",nil]];
     [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",@"吉林公司",nil]];
     [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",nil]];
+    /*
+     NSString *filePath = [[NSBundle mainBundle] pathForResource:@"companyName" ofType:@"txt"];;
+     NSString    *strCompanys = [NSString stringWithContentsOfFile:filePath encoding:NSUTF8StringEncoding error:nil];
+    strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\n" withString:@""];
+    strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\r" withString:@""];
+    strCompanys = [strCompanys stringByReplacingOccurrencesOfString:@"\r\n" withString:@""];
+     NSArray *array = [strCompanys componentsSeparatedByString:@";"];
+    for (NSString *strTemp in array)
+    {
+        NSArray *arrSubCompanys = [strTemp componentsSeparatedByString:@","];
+        if (arrSubCompanys.count < 2)
+        {
+            continue;
+        }
+        [productNameArray addObject:arrSubCompanys];
+        
+    }*/
    // [productNameArray addObject:[NSArray arrayWithObjects:@"股份",@"北方",@"澜沧江公司",@"呼伦贝尔公司",@"山东公司",@"四川公司",@"吉林公司",@"黑龙江公司",@"海南公司",@"陕西公司",@"甘肃公司",@"宁夏公司",@"新疆公司",@"新能源公司",@"华能集团",nil]];
    
     
